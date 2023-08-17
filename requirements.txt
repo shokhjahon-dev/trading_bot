@@ -1,0 +1,4 @@
+aiofile==3.8.1
+aiogram==2.19
+Django==4.2.1
+environs==8.0.0
